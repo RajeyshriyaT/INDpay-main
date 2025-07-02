@@ -1,0 +1,7 @@
+site_name: INDpay Documentation
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
